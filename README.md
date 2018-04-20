@@ -6,11 +6,11 @@ Installation
 
   -Téléchargez le zip
   -
-  -Lancer GodotEngine 
+  -Lancez GodotEngine 
   -
-  -Une fois sur la liste des projets créer un nouveau projet à l'emplacement souhaité et enregistrer
+  -Une fois sur la liste des projets créez un nouveau projet à l'emplacement souhaité et enregistrez-le
   -
-  -Godot va lancer l'éditeur à ce moment là, aller dans le dossier qui vient d'être crée et supprimez-y les dossiers (tout en laissant       Godot ouvert)
+  -Godot va lancer l'éditeur à ce moment là, allez dans le dossier qui vient d'être crée et supprimez-y les dossiers (tout en laissant       Godot ouvert)
   -
   -Copiez les fichiers du zip(et non le dossier) en excluant le README et collez le tout dans le dossier vide
   -
@@ -28,8 +28,8 @@ Joueur2:Flèche du haut,Flèche de gauche,Flèche du bas,Flèche de droite
 
 A Savoir:
 -
-  -Les cotés de la carte ne sont pas fonctionnels, le joueur est censé se téléporter du côté opposé mais cette fonctyionnalité n'est pas     opérationnelle
+  -Les cotés de la carte ne sont pas fonctionnels, le joueur est censé se téléporter du côté opposé mais cette fonctionnalité n'est pas     opérationnelle
   -
-  -Le tir est implémenté dans le jeu mais n'est pas lié aux personnages car cela générait beaucoup de souçis mais les déplacements et        collisions sont bien présents
+  -Le tir est implémenté dans le jeu mais n'est pas lié aux personnages car cela générait beaucoup de souçis mais les déplacements et        collisions sont bien présents ainsi que le menu
   -
   
